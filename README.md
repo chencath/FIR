@@ -1,2 +1,2 @@
-# The collection of Jupyter notebook for AccFin5233 Financial Information Retrieval
-Lecture 1
+# Jupyter notebook forFinancial Information Retrieval
+The collection of Lectures made by Jupyter notebook
